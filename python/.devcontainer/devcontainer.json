@@ -1,0 +1,9 @@
+// See https://aka.ms/vscode-remote/devcontainer.json for format details.
+{
+	"name": "Dev Python",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"ms-python.python",
+		"yzhang.markdown-all-in-one"
+	]
+}
