@@ -1,0 +1,9 @@
+// See https://aka.ms/vscode-remote/devcontainer.json for format details.
+{
+	"name": "Dev Scheme",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"sjhuangx.vscode-scheme",
+		"yzhang.markdown-all-in-one"
+	]
+}
